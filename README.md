@@ -12,9 +12,9 @@ This project is a responsive implementation of the provided Figma design as part
 ## Features
 
 * Responsive layout
-* Accurate implementation of the provided Figma design
+* Implementation of the provided Figma design
 * Clean and maintainable code structure
-* Optimized image assets
+* Image assets
 
 ## Project Files
 
@@ -24,7 +24,7 @@ This project is a responsive implementation of the provided Figma design as part
 
 ## Design Approach
 
-The page was developed using semantic HTML and modern CSS techniques, including Flexbox and CSS Grid. Typography, spacing, colors, and visual elements were implemented to closely match the provided Figma design while ensuring responsiveness across different screen sizes.
+The page was developed using semantic HTML and modern CSS techniques, including Flexbox and CSS Grid. Typography, spacing, colors, and visual elements were implemented to match the provided Figma design while ensuring responsiveness across different screen sizes.
 
 ## Running the Project
 
